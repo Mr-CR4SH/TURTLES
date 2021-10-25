@@ -1,4 +1,5 @@
 import turtle
+
 def getPosition(x, y):
     turtle.setx(x)
     turtle.sety(y)
